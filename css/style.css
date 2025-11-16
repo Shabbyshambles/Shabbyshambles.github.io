@@ -1,5 +1,9 @@
 body {
   font-family: Arial, sans-serif;
+  background-image: url('../assets/background.jpeg'); /* path to image */
+  background-size: cover;      /* fill container */
+  background-position: center; /* center image */
+  background-repeat: no-repeat;
   margin: 0;
   padding: 0;
 }
@@ -17,10 +21,7 @@ nav a {
   text-decoration: none;
 }
 
-main {background-image: url('../assets/background.jpeg'); /* path to image */
-  background-size: cover;      /* fill container */
-  background-position: center; /* center image */
-  background-repeat: no-repeat;
+main {
   padding: 2rem;
   
 }

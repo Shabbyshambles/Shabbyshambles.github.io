@@ -53,7 +53,8 @@ main {
 .team-text{
     display: flex;
   align-items: flex-start;
-    flex-direction: column;   
+    flex-direction: column;
+    line-height: 1.5;   
      
 }
 

@@ -43,6 +43,7 @@ main {
   display: flex;
   align-items: flex-start;
   gap:20px;
+    width: 300px;  
 }
 .side-image {
   width: 100%;

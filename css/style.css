@@ -21,8 +21,11 @@ main {
   padding: 2rem;
 }
 
-.hero {
-  background: #cce6ff;
+.hero {background-image: url('assets/background.jpg'); /* path to image */
+  background-size: cover;      /* fill container */
+  background-position: center; /* center image */
+  background-repeat: no-repeat;
+
   padding: 2rem;
   text-align: center;
 }

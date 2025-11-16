@@ -60,4 +60,21 @@ footer {
   height: 80px;   /* maintain aspect ratio */
   display: block;  /* removes unwanted spacing below image */
 
+}.image-text-block {
+  display: flex;
+  align-items: flex-start;  /* aligns the top of text with image */
+  gap: 20px;                /* space between image and bullet points */
+  margin: 2rem 0;
+}
+
+.image-text-block .side-image {
+  width: 150px;    /* adjust as needed */
+  height: auto;
+}
+
+.image-text-block .side-text {
+  margin: 0;
+  padding-left: 20px; /* optional, space for bullets */
+  font-size: 1rem;
+  list-style-type: disc;  /* default bullet style */
 }

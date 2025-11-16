@@ -34,7 +34,17 @@ main {
   padding: 2rem;
   text-align: center;
 }
-
+.teammember {
+  border: 1px solid #ddd;
+  background-color: white;
+  padding: 1rem;
+  margin: 1rem 0;
+  display: flex;
+  align-items: flex-start;
+  gap:20px;
+    width: 700px;  
+    text-align: center;
+}
 .team-member {
   border: 1px solid #ddd;
   background-color: white;

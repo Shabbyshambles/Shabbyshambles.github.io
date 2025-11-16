@@ -51,7 +51,7 @@ main {
   border: 1px solid #ddd;
   background-color: white;
   padding: 1rem;
-  margin: 1rem 0;
+  margin: 0 auto;
   display: flex;
   align-items: flex-start;
   gap:20px;

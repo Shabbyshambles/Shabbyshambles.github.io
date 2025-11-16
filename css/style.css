@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-image: url('../assets/background.jpeg'); /* path to image */
+  background: #D8D2E1; /* path to image */
   background-size: cover;      /* fill container */
   background-position: center; /* center image */
   background-repeat: no-repeat;
@@ -9,7 +9,7 @@ body {
 }
 
 header {
-  background: #004080;
+  background: #34435E;
   color: white;
   padding: 1rem;
   text-align: center;
@@ -36,7 +36,7 @@ main {
 }
 .teammember {
   border: 1px solid #ddd;
-  background-color: white;
+  background-color: #B88E8D;
   padding: 2rem;
   margin: 0 auto;
   justify-content: center;

@@ -54,8 +54,7 @@ main {
     display: flex;
   align-items: flex-start;
     flex-direction: column;   
-     padding: 1rem;
-  margin: 1rem 0;
+     
 }
 
 footer {

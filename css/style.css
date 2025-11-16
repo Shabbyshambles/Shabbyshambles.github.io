@@ -46,6 +46,7 @@ main {
   gap:20px;
     width: 700px;  
     text-align: center;
+    border-radius: 15px;
 }
 .team-member {
   border: 1px solid #ddd;

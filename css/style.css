@@ -45,7 +45,8 @@ main {
   gap:20px;
 }
 .side-image {
-  width: 120px;
+  width: 100%;
+  max-width: 150px;
   height: auto;
   flex-shrink: 0;          /* prevent shrinking */
 }

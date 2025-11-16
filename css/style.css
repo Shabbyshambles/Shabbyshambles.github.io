@@ -51,11 +51,12 @@ main {
   border: 1px solid #ddd;
   background-color: white;
   padding: 1rem;
-  margin: 0 auto;
+  margin: 10px auto;
   display: flex;
   align-items: flex-start;
   gap:20px;
-    width: 700px;  
+    width: 900px; 
+    border-radius: 15px; 
 }
 .side-image {
   width: 100%;

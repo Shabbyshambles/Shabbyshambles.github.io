@@ -47,10 +47,12 @@ main {
     display: flex;
   align-items: center;
     flex-direction: column;   
+     padding: 1rem;
+  margin: 1rem 0;
 }
 .side-image {
   width: 150px;
-  height: auto;
+  height: 120px;
   flex-shrink: 0;          /* prevent shrinking */
 }
 footer {

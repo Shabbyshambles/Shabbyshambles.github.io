@@ -52,7 +52,7 @@ main {
 }
 .side-image {
   width: 150px;
-  height: 80px;
+  height: auto;
   flex-shrink: 0;          /* prevent shrinking */
 }
 footer {

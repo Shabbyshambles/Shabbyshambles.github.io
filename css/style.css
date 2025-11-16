@@ -46,7 +46,7 @@ main {
 }
 .side-image {
   width: 100%;
-  max-width: 150px;
+  max-width: 120px;
   height: auto;
   flex-shrink: 0;          /* prevent shrinking */
 }

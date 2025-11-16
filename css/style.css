@@ -57,7 +57,7 @@ footer {
 }
 .logo1{
      width: 100%;     /* stretch to full width */
-  height: auto;    /* maintain aspect ratio */
+  height: 80px    /* maintain aspect ratio */
   display: block;  /* removes unwanted spacing below image */
 
 }

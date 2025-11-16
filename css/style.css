@@ -17,14 +17,14 @@ nav a {
   text-decoration: none;
 }
 
-main {background-image: url('assets/background1.jpeg'); /* path to image */
+main {background-image: url('assets/background1.jpg'); /* path to image */
   background-size: cover;      /* fill container */
   background-position: center; /* center image */
   background-repeat: no-repeat;
   padding: 2rem;
 }
 
-.hero {background-image: url('assets/background1.jpeg'); /* path to image */
+.hero {background-image: url('assets/background1.jpg'); /* path to image */
   background-size: cover;      /* fill container */
   background-position: center; /* center image */
   background-repeat: no-repeat;

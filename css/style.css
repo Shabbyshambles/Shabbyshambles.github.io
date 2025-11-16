@@ -37,6 +37,7 @@ main {
 
 .team-member {
   border: 1px solid #ddd;
+  background-color: lightgray;
   padding: 1rem;
   margin: 1rem 0;
 }

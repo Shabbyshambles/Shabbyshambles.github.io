@@ -51,6 +51,6 @@ footer {
   text-align: center;
 }
 .logo {
-  width: 100px;   /* shrink width */
+  width: 200px;   /* shrink width */
   height: auto;   /* maintain aspect ratio */
 }

@@ -48,6 +48,11 @@ main {
   align-items: center;
     flex-direction: column;   
 }
+.side-image {
+  width: 150px;
+  height: auto;
+  flex-shrink: 0;          /* prevent shrinking */
+}
 footer {
   text-align: center;
   padding: 1rem;

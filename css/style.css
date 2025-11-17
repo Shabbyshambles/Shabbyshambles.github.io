@@ -74,6 +74,10 @@ main {
 }.team-text p {
   display: block; /* override flex behavior */
   white-space: normal; 
+}.inline-text {
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
 
 footer {

@@ -77,7 +77,7 @@ main {
 }.inline-text {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 4px;
 }
 
 footer {

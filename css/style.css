@@ -69,8 +69,8 @@ main {
     display: flex;
   align-items: flex-start;
     flex-direction: column;
-    line-height: 0.1;   
-     
+    line-height: 1.2;   
+       flex-wrap: wrap;
 }.team-text p {
   display: block; /* override flex behavior */
   white-space: normal; 

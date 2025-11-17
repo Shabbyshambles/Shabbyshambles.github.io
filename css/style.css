@@ -71,6 +71,9 @@ main {
     flex-direction: column;
     line-height: 0.1;   
      
+}.team-text p {
+  display: block; /* override flex behavior */
+  white-space: normal; 
 }
 
 footer {

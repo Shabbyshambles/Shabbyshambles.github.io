@@ -25,7 +25,14 @@ main {
   padding: 2rem;
   
 }
-
+.butt{
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.butt:hover{
+  
+  transform: translateY(-3px);
+  box-shadow: 0 8px 22px rgba(0,0,0,0.10);
+}
 .hero {background-image: url('assets/background1.jpg'); /* path to image */
   background-size: cover;      /* fill container */
   background-position: center; /* center image */

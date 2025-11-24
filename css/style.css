@@ -79,6 +79,30 @@ main {  font-family: Arial, sans-serif;
     width: 900px; 
   box-shadow: 0 4px 12px rgba(0,0,0,0.08);
     border-radius: 15px; 
+}.team-member-l{
+  border: 1px solid #ddd;
+  background-color: white;
+  padding: 1rem;
+  margin: 10px auto;
+  margin-left: 40px;
+  display: flex;
+  align-items: flex-start;
+  gap:20px;
+    width: 900px; 
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    border-radius: 15px; 
+}.team-member-r {
+  border: 1px solid #ddd;
+  background-color: white;
+  padding: 1rem;
+  margin: 10px auto;
+  margin-right: 40px;
+  display: flex;
+  align-items: flex-start;
+  gap:20px;
+    width: 900px; 
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    border-radius: 15px; 
 }
 .side-image {
   width: 100%;

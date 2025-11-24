@@ -1,6 +1,7 @@
 body {
   font-family: Arial, sans-serif;
   background-image: url('assets/vect_1.jpeg');
+  height: 100vh; 
   /* path to image */
   background-size: cover;      /* fill container */
   background-position: center; /* center image */
@@ -24,6 +25,7 @@ nav a {
 
 main {  font-family: Arial, sans-serif;
   background-image: url('assets/vect_1.jpeg');
+  height: 100vh; 
   /* path to image */
   background-size: cover;      /* fill container */
   background-position: center; /* center image */

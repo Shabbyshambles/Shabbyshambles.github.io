@@ -8,6 +8,7 @@ body {
   background-repeat: no-repeat;
   margin: 0;
   padding: 0;
+  display: block;
 }
 
 header {
@@ -27,6 +28,7 @@ main {  font-family: Arial, sans-serif;
   background-image: url('assets/vect_1.jpeg');
   height: 100vh; 
   /* path to image */
+  display: block;
   background-size: cover;      /* fill container */
   background-position: center; /* center image */
   background-repeat: no-repeat;
